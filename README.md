@@ -1,1 +1,1 @@
-I'm just a random developer, my code might be unoptimized
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra)](https://github.com/anuraghazra/github-readme-stats)
